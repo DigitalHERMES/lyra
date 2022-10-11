@@ -1,5 +1,8 @@
 # Lyra: a generative low bitrate speech codec
 
+PLEASE USE LPCNET instead. The training pipeline of Lyra is closed source, so 
+it has no use for us.
+
 ## What is Lyra?
 
 [Lyra](https://ai.googleblog.com/2021/08/soundstream-end-to-end-neural-audio.html)
