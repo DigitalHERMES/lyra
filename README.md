@@ -1,7 +1,9 @@
 # Lyra: a generative low bitrate speech codec
 
 PLEASE USE LPCNET instead. The training pipeline of Lyra is closed source, so 
-it has no use for us.
+it has no use for us as the bitrate is too high and we have no way to change it.
+
+Refer to: https://github.com/google/lyra/issues/18
 
 ## What is Lyra?
 
